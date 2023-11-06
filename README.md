@@ -2,6 +2,14 @@
 
 This documentation provides details on how to use the API endpoints of the backend server. The API allows you to manage tasks.
 
+## Installation
+
+Before running the backend server and the unit tests, make sure to install the required dependencies. You can do this using the following command:
+
+````bash
+npm install
+
+
 ## Table of Contents
 
 1. [Create a Task](#create-a-task)
@@ -83,4 +91,4 @@ To run the tests, use the following command:
 
 ```bash
 npm test
-```
+````
